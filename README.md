@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently studying Computer Science.<br><br>👨‍💻 I’m currently learning Ml.<br><br>👯 I’m looking to collaborate on OpenSource Projects<br>✉ You can reach me at<br>avneesh2020csai050@abesit.edu.in<br><br>⚡ Fun fact I like to play games  in my free time.
+I’m currently studying Computer Science.<br><br>👨‍💻 I’m currently learning MERN.<br><br>👯 I’m looking to collaborate on OpenSource Projects<br>✉ You can reach me at<br>avneesh2020csai050@abesit.edu.in<br><br>⚡ Fun fact I like to play games  in my free time.
 
 
 ## 🌐 Socials:
