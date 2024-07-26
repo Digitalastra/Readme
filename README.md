@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently studying Computer Science.<br><br>👨‍💻 I’m currently learning MERN.<br><br>👯 I’m looking to collaborate on OpenSource Projects<br>✉ You can reach me at<br>giriavneesh9871@gmail.com<br><br>⚡ Fun fact I like to play games  in my free time.
+I’m currently Working as Software Engineer Trainee[AI/ML].<br><br>👨‍💻 I’m currently learning Machine learning.<br><br>👯 I’m looking to collaborate on OpenSource Projects<br>✉ You can reach me at<br>giriavneesh9871@gmail.com<br><br>⚡ Fun fact I like to play games  in my free time.
 
 
 ## 🌐 Socials:
